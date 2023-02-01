@@ -1,0 +1,24 @@
+{
+    "bot-owner": "100007515468996",
+    "thread-admins": {},
+    "5310020869038459": {
+        "users": {
+            "100007515468996": {
+                "permissions": [
+                    "info",
+                    "help",
+                    "imageSearch",
+                    "say",
+                    "say languages-list",
+                    "downloadTiktok",
+                    "play",
+                    "wiki",
+                    "translate",
+                    "define",
+                    "ai"
+                ]
+            }
+        }
+   
+    }
+}
